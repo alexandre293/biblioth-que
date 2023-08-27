@@ -1,0 +1,54 @@
+img {
+	height: 200px;
+	margin-bottom: 4px;
+}
+
+.livre {
+	display: inline-block;
+	background-color:aliceblue;
+	width:250px;
+	height: 350px;
+	border: 4px solid red;
+	margin: 7px;
+	padding:5px;
+	text-align: center;
+}
+
+body {
+	/*background-image: url(https://sf1.auto-moto.com/wp-content/uploads/sites/9/2021/03/24h-du-mans-2021-affiche-une.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;*/
+	background-color: #4C261C;
+}
+
+h2 {
+	height:70px;
+}
+
+a {	
+	display: inline-block;
+	background: #73BF9F;
+	border-radius: 50px;
+	width:70px;
+	height: 20px;
+	text-decoration: none ;
+	font-family: 'Inter';
+	font-style: normal;
+	color: #FFFFFF
+}
+
+.blue {
+	background-color:blue;
+}
+
+.important {
+	/* margin:0 auto; */
+	text-align: center;
+}
+
+.pasteque {
+	text-align: center;
+	font-size: 45px;
+	color: #A7F49F;
+
+}
