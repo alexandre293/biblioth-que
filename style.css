@@ -15,9 +15,6 @@ img {
 }
 
 body {
-	/*background-image: url(https://sf1.auto-moto.com/wp-content/uploads/sites/9/2021/03/24h-du-mans-2021-affiche-une.jpg);
-	background-repeat:no-repeat;
-	background-size: cover;*/
 	background-color: #4C261C;
 }
 
@@ -42,7 +39,6 @@ a {
 }
 
 .important {
-	/* margin:0 auto; */
 	text-align: center;
 }
 
@@ -52,3 +48,9 @@ a {
 	color: #A7F49F;
 
 }
+
+.livre:hover {
+	scale:1.2;
+}
+
+
